@@ -1,9 +1,13 @@
-#logo {background-color:#00c3ff;
-    height: 100px;          
+#sfondo {background-color: #2070d8;
+}
+#logo {height: 50px;
 }
 #firma {font-size: 12px;
 }
-#blue-color {color:rgb(17, 144, 255)}
+#grey-color {color:rgba(124, 124, 122, 0.966);
+}
+#blue-color {color:rgb(17, 144, 255)
+}
 #data {font-size: 10px;
 }
 #yellow-color { background-color:rgba(255, 238, 0, 0.445)
@@ -13,6 +17,5 @@
 #Intestazione-tabella {color:white;
     background-color: rgb(0, 132, 255);
 }
-#prima-riga {background-color: rgba(0, 238, 255, 0.425);
-
+#prima-riga {background-color:rgba(0, 238, 255, 0.425);
 }
