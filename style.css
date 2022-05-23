@@ -1,11 +1,11 @@
 #logo {background-color:#00c3ff;
-    height:100px;           
+    height: 100px;          
 }
 #firma {font-size: 12px;
 }
 #data {font-size: 10px;
 }
-span { color:rgb(0, 174, 255)
+span { background-color:rgb(255, 238, 0)
 }
 .description {font-size: 9px;    
 }
